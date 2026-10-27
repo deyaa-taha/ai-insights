@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI Insights · Deyaa Taha</title>
+    <link>https://github.com/deyaa-taha/ai-insights</link>
+    <description>Articles and posts on AI engineering, agents, RAG and enterprise AI adoption.</description>
+    <item>
+      <title>Agentic SDLC: Why an Orchestrator Beats One Super-Agent</title>
+      <link>https://github.com/deyaa-taha/ai-insights/blob/main/articles/2026/2026-10-agentic-sdlc-orchestration/index.md</link>
+      <guid isPermaLink="true">https://github.com/deyaa-taha/ai-insights/blob/main/articles/2026/2026-10-agentic-sdlc-orchestration/index.md</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Designing an end-to-end agentic software delivery platform: an orchestrator, specialized agents, quality gates, and cost control built in from day one.</description>
+    </item>
+    <item>
+      <title>AI agents don't need more intelligence. They need structure.</title>
+      <link>https://github.com/deyaa-taha/ai-insights/blob/main/posts/2026/2026-10-27-agents-need-structure.md</link>
+      <guid isPermaLink="true">https://github.com/deyaa-taha/ai-insights/blob/main/posts/2026/2026-10-27-agents-need-structure.md</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Why one super-agent fails in production, in five lines.</description>
+    </item>
+  </channel>
+</rss>
